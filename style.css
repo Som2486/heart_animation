@@ -8,6 +8,7 @@ span{
     background: url(https://cdn2.iconfinder.com/data/icons/3Dcartoon/Yahoo%20Messenger.png);
     width: 100px;
     height: 100px;
+    pointer-events: none;
     position: absolute;
     background-size: cover;
     left: 50%;
