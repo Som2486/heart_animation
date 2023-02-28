@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: black;
+
+}
+span{
+    background: url(https://cdn2.iconfinder.com/data/icons/3Dcartoon/Yahoo%20Messenger.png);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-size: cover;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
